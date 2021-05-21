@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap');
+	@import url('https://fonts.googleapis.com/css2?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap');
 * {
   margin: 0;
   padding: 0;
@@ -562,7 +562,7 @@ padding-top: 70px;
 	padding: 10px;
 	font-size: 1.3em;
 }
-/*screeeeeeeeeeeeeeeeeeeeeeeen ipadPro*/
+/*screeeemmmmmmmmmmmmmmmmmmmm  ipadPro*/
 @media screen and (max-width: 1024px) {
  .banner{
 	
@@ -722,6 +722,7 @@ video{
 .feed{
 	margin-top: 50px;
 	margin-bottom: 70px;
+	padding-right: 29px;
 }
 .feed .carda{
 	display: flex;
@@ -768,12 +769,13 @@ video{
 	margin-top: 50px;
 	margin-bottom: 70px;
 	padding-left: 28px;
+	padding-right: 7px;
 }
 .feed .contt{
 	display: flex;
 	flex-direction: column;
 	padding-left: 29px;
-	padding-right: 0px;
+	padding-right: 11px;
 
 }
 
@@ -815,10 +817,48 @@ padding-right: 0px;
 	padding-left: 30px;
 }
 
-.search input{
-	width: 100%;
+
+.find .icons{
+	display: flex;
+	justify-content: center;
+	color: #ff7f50;
+	transform: scale(2);
+	margin-bottom: 30px;
+	width: fit-content;
+	align-items: center;
+	text-align: center;
+	padding-left: 30px;
 }
 
+.find .icons i{
+	margin: 8px;
+	
+
+}
+.find .icons i:hover{
+	color: red;
+}
+.search input{
+	height: 40px;
+	width: 250px;
+	padding: 15px;
+	box-shadow: 0 0 5px 5px rgba(226,0,0,0.1)
+}
+
+.search{
+	display: flex;
+	flex-direction: row;
+}
+
+.search i{
+	background: #ff7f50;
+	height: 40px;
+	width: 40px;
+	box-shadow: 2px 2px 2px 2px rgba(255,0,0,0.1);
+	margin-bottom: 10px;
+	padding: 10px;
+	font-size: 1.3em;
+}
 /*=============== Meals ====================*/
 .Meals h1{
 	text-align: center;
