@@ -1515,6 +1515,49 @@ padding: 0px;
 }
 body .video{
 	margin-top: -60px;}
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+.Meals .cards{
+	width: 100%;
+	margin-left: 0;
+	margin-right: 0;
+	box-shadow: none;
+}
+
+
+.Meals .card{
+	width: 100%;
+	margin-left: 0;
+	margin-right: 0;
+	box-shadow: none;
+}
+
+
+.Meals .cards .flex-container{
+	width: 100%;
+	margin-left: 0;
+	margin-right: 0;
+	box-shadow: none;
+}
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
 /*=============== Feeeeeeds =============================================================*/
 .feed img{
 	width: 100%;
