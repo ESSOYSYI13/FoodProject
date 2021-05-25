@@ -1383,7 +1383,7 @@ ul li a:hover{
 		background-repeat: no-repeat;
 		background-position: center;
 		cursor: pointer;	
-		background-size: 25px;
+		background-size: 30px;
 		   filter: invert(1);
 		
 	}
@@ -1393,7 +1393,7 @@ ul li a:hover{
        background: url("../images/close.png");
        background-repeat: no-repeat;
 		background-position: center;
-        background-size: 25px;
+        background-size: 30px;
 	}
 
 	header .navigation
