@@ -1775,8 +1775,8 @@ font-size: 1em;
 	font-size: 1.3em;
 }
 .icons i{
-	margin-right: 3px;
-	margin-left: 3px;
+	margin-right: 0px;
+	margin-left: 0px;
 }
 .find .icons{
 	padding-left: 0px;
