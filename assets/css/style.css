@@ -1485,6 +1485,7 @@ header .logo{
 }
 .Meals{
 padding: 15px;
+	
 }
 .Meals .card .flex-container img,.Meals .cards .card img{
 	padding: 15px;
@@ -1731,8 +1732,8 @@ font-size: 1em;
 	font-size: 1.3em;
 }
 .icons i{
-	margin-right: 5px;
-	margin-left: 5px;
+	margin-right: 3px;
+	margin-left: 3px;
 }
 .find .icons{
 	padding-left: 0px;
