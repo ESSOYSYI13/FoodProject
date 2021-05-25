@@ -1384,7 +1384,7 @@ ul li a:hover{
 		background-position: center;
 		cursor: pointer;	
 		background-size: 30px;
-		   filter: invert(1);
+/* 		   filter: invert(1); */
 		
 	}
 	.menutoggle.active{
@@ -1392,7 +1392,7 @@ ul li a:hover{
 		cursor: pointer;
        background: url("../images/close.png");
        background-repeat: no-repeat;
-		background-position: center;
+	background-position: center;
         background-size: 30px;
 	}
 
